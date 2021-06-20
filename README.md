@@ -1,0 +1,2 @@
+# Hackathon2k21
+Catalogues let you spread your business product line with retail customers, distributors, merchants and wholesale clients alike. This allows respective buyers to conveniently browse through your offerings. As mentioned in the problem statement, paper-printed product brochures bring the memories of bygone days. To overcome this, I have a solution approach to design a product catalogue website, for the product **“Dora_1.4, a virtual assistant ( hypothetical product )”**.  The website, I will be creating will consist of nearly **13-14 Web Pages**. 
